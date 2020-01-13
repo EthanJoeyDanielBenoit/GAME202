@@ -1,0 +1,8 @@
+﻿  File not found - *.dll
+  0 File(s) copied
+  main.cpp
+c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(117): error C2601: 'Quit': local function definitions are illegal
+  c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(90): note: this line contains a '{' which has not yet been matched
+c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(126): error C2601: 'SDL_main': local function definitions are illegal
+  c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(90): note: this line contains a '{' which has not yet been matched
+c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(140): error C3861: 'Quit': identifier not found
