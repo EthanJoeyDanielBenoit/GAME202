@@ -1,13 +1,5 @@
 ﻿  File not found - *.dll
   0 File(s) copied
   main.cpp
-c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(153): error C3861: 'check_collision': identifier not found
-c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(183): warning C4305: 'argument': truncation from 'int' to 'Uint8'
-c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(183): warning C4309: 'argument': truncation of constant value
-c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(212): error C2601: 'check_collision': local function definitions are illegal
-  c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(207): note: this line contains a '{' which has not yet been matched
-c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(215): error C2086: 'int leftB': redefinition
-  c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(214): note: see declaration of 'leftB'
-c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(227): error C2065: 'rightB': undeclared identifier
-c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(228): error C2059: syntax error: '='
-c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(242): error C2065: 'rightB': undeclared identifier
+c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(84): error C2601: 'check_collision': local function definitions are illegal
+  c:\users\6zh83\onedrive - st. lawrence college\game202\game202-labs\lab1-pong\pong\pong\main.cpp(82): note: this line contains a '{' which has not yet been matched
