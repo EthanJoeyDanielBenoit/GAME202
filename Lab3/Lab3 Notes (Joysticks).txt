@@ -1,1 +1,0 @@
-printf("Mouse moved by %d\n", event.jbutton.button);
